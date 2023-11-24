@@ -1,0 +1,3 @@
+button3.c:19:5:isButton3Pressed	4	static
+button3.c:27:6:subButton3	4	static
+button3.c:31:6:getButton3Input	8	static

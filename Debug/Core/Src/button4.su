@@ -1,0 +1,3 @@
+button4.c:19:5:isButton4Pressed	4	static
+button4.c:27:6:subButton4	4	static
+button4.c:31:6:getButton4Input	8	static
